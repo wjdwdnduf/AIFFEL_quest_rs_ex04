@@ -13,8 +13,8 @@
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
-    - 주석을 보고 코드 이해가 잘 되었는지 확인
-      ![code1](<img width="904" height="593" alt="image" src="https://github.com/user-attachments/assets/c6d4180d-cd7d-4b72-9fa1-af193e0f28f5" />)
+    - 주석을 보고 코드 이해가 잘 되었는지 확인  
+      <img width="904" height="593" alt="image" src="https://github.com/user-attachments/assets/c6d4180d-cd7d-4b72-9fa1-af193e0f28f5" />
 
         
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
